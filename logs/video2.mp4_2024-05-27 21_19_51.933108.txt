@@ -1,0 +1,7 @@
+Iniciando Proceso
+
+
+
+Tiempo Total de Ejecucion: 0.00 s
+Total de Frames Seleccionados: 0
+Total de Frames: 0

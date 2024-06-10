@@ -1,0 +1,7 @@
+Iniciando Proceso
+
+ 
+ 
+Tiempo Total de Ejecucion: 4.975176095962524 
+Total de Frames Seleccionados: 3 
+Total de Frames: 11

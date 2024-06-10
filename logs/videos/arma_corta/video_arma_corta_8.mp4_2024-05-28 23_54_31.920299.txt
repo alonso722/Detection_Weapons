@@ -1,0 +1,141 @@
+Iniciando Proceso
+
+ ------------------------------  
+arma_corta - 0.77526397 , posicion_arma_corta - 0.76791316 , arma_corta - 0.7626822 , posicion_arma_corta - 0.7592437 , arma_corta - 0.7580984 , arma_corta - 0.75261354 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.7843325 , posicion_arma_corta - 0.782686 ,  | 0.51,0.04,0.55
+ ------------------------------  
+arma_punzocortante - 0.79674447 , arma_punzocortante - 0.76861256 , arma_punzocortante - 0.75607514 , arma_punzocortante - 0.7359768 , arma_punzocortante - 0.7310838 ,  | 0.51,0.04,0.55
+ ------------------------------  
+arma_punzocortante - 0.7461024 ,  | 0.51,0.04,0.55
+ ------------------------------  
+arma_punzocortante - 0.7326371 , arma_punzocortante - 0.72071016 , arma_punzocortante - 0.7201663 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.83380395 , posicion_arma_corta - 0.7886856 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.84424376 , posicion_arma_corta - 0.7957541 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.7072987 ,  | 0.51,0.04,0.55
+ ------------------------------  
+arma_punzocortante - 0.7253437 , arma_punzocortante - 0.7148782 , arma_punzocortante - 0.7035761 ,  | 0.51,0.04,0.55
+ ------------------------------  
+arma_punzocortante - 0.71008885 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.9467778 , posicion_arma_corta - 0.94224554 , arma_corta - 0.846725 , arma_corta - 0.84584266 , arma_corta - 0.839655 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.95831686 , posicion_arma_corta - 0.9520703 , arma_corta - 0.7984157 , arma_corta - 0.7810323 , arma_corta - 0.75790215 , arma_corta - 0.75629073 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.9603427 , posicion_arma_corta - 0.9364292 , arma_corta - 0.8619737 , arma_corta - 0.8207042 , arma_corta - 0.81196636 , arma_corta - 0.7537717 , arma_corta - 0.75196725 , arma_corta - 0.7188956 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.8980715 , posicion_arma_corta - 0.88523644 , arma_corta - 0.8833647 , arma_corta - 0.83015156 , arma_corta - 0.807545 , arma_corta - 0.80629885 , arma_corta - 0.7899084 , arma_corta - 0.71697843 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.8696341 , posicion_arma_corta - 0.847991 , arma_corta - 0.8290788 , arma_corta - 0.795704 , arma_corta - 0.7756742 , arma_corta - 0.7392654 , arma_corta - 0.7382863 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8986167 , arma_corta - 0.83040243 , posicion_arma_corta - 0.82849395 , arma_corta - 0.81680495 , posicion_arma_corta - 0.80597985 , arma_corta - 0.80246574 , arma_corta - 0.7989911 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.87760603 , posicion_arma_corta - 0.8712271 , arma_corta - 0.8599476 , arma_corta - 0.8270576 , arma_corta - 0.8228919 , arma_corta - 0.7927605 , arma_corta - 0.7638217 , arma_corta - 0.7580889 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8997824 , arma_corta - 0.84031034 , posicion_arma_corta - 0.8269274 , arma_corta - 0.8054146 , posicion_arma_corta - 0.8051588 , arma_corta - 0.80066174 , arma_corta - 0.7939688 ,  | 0.51,0.04,0.55
+ ------------------------------  
+arma_corta - 0.8765953 , posicion_arma_corta - 0.85708004 , posicion_arma_corta - 0.8446498 , arma_corta - 0.81291986 , arma_corta - 0.78165597 , arma_corta - 0.77456164 , arma_corta - 0.77239686 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.84837806 , arma_corta - 0.8271437 , arma_corta - 0.8133771 , arma_corta - 0.77851325 , arma_corta - 0.77696204 , arma_corta - 0.7464728 , posicion_arma_corta - 0.7177064 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8675021 , arma_corta - 0.8308617 , arma_corta - 0.82444334 , arma_corta - 0.8153285 , arma_corta - 0.8128791 , posicion_arma_corta - 0.77227575 , posicion_arma_corta - 0.7659807 , arma_corta - 0.75929505 , arma_corta - 0.7379507 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8771773 , arma_corta - 0.8400806 , posicion_arma_corta - 0.8255204 , posicion_arma_corta - 0.8165684 , arma_corta - 0.8143238 , arma_corta - 0.81371 , arma_corta - 0.7690448 , arma_corta - 0.7234627 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8886956 , arma_corta - 0.85029846 , arma_corta - 0.8345651 , posicion_arma_corta - 0.83097225 , posicion_arma_corta - 0.81176174 , arma_corta - 0.80823076 ,  | 0.52,0.04,0.55
+ ------------------------------  
+arma_corta - 0.8606415 , arma_corta - 0.8341492 , arma_corta - 0.8102518 , arma_corta - 0.7943235 , posicion_arma_corta - 0.7440737 ,  | 0.51,0.04,0.55
+ ------------------------------  
+arma_corta - 0.86197937 , arma_corta - 0.84198 , arma_corta - 0.8105404 , arma_corta - 0.8104286 , posicion_arma_corta - 0.7931271 , arma_corta - 0.75483733 , posicion_arma_corta - 0.7122272 , arma_corta - 0.7101074 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8410607 , arma_corta - 0.82223743 , arma_corta - 0.8159109 , arma_corta - 0.7922638 , arma_corta - 0.7761401 , arma_corta - 0.7052964 , posicion_arma_corta - 0.7042438 ,  | 0.52,0.04,0.55
+ ------------------------------  
+arma_corta - 0.8666815 , arma_corta - 0.853135 , arma_corta - 0.820249 , arma_corta - 0.8177839 , arma_corta - 0.78941536 , arma_corta - 0.7500024 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8661766 , arma_corta - 0.84092635 , arma_corta - 0.8252902 , arma_corta - 0.8002259 , arma_corta - 0.79192096 , arma_corta - 0.7690775 , arma_corta - 0.71019703 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.86752194 , arma_corta - 0.84669477 , arma_corta - 0.8385811 , arma_corta - 0.8128373 , arma_corta - 0.73778915 , arma_corta - 0.7105962 ,  | 0.51,0.04,0.55
+ ------------------------------  
+arma_corta - 0.87691087 , arma_corta - 0.86024487 , arma_corta - 0.84126425 , arma_corta - 0.8122759 , arma_corta - 0.7857272 , arma_corta - 0.7759753 , arma_corta - 0.7208192 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8914163 , arma_corta - 0.8597715 , arma_corta - 0.85069597 , arma_corta - 0.8104716 , arma_corta - 0.80310035 , arma_corta - 0.79930216 , posicion_arma_corta - 0.7528169 , posicion_arma_corta - 0.7462863 ,  | 0.53,0.04,0.57
+ ------------------------------  
+arma_corta - 0.87457496 , arma_corta - 0.8490371 , arma_corta - 0.8327596 , arma_corta - 0.8081104 , arma_corta - 0.805603 , arma_corta - 0.77892774 , posicion_arma_corta - 0.75189596 , posicion_arma_corta - 0.7367354 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.87087667 , arma_corta - 0.8432375 , arma_corta - 0.8100499 , arma_corta - 0.80745393 , arma_corta - 0.7937857 , posicion_arma_corta - 0.76414067 , posicion_arma_corta - 0.7435749 , arma_corta - 0.72815174 , arma_corta - 0.7187235 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8644105 , arma_corta - 0.8407798 , arma_corta - 0.80503577 , arma_corta - 0.80018675 , posicion_arma_corta - 0.7999775 , posicion_arma_corta - 0.79764754 , arma_corta - 0.7897145 , arma_corta - 0.7325566 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.87272733 , arma_corta - 0.84978855 , posicion_arma_corta - 0.84212774 , posicion_arma_corta - 0.831761 , arma_corta - 0.76412344 , arma_corta - 0.738058 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.86476946 , posicion_arma_corta - 0.85801136 , arma_corta - 0.8524459 , arma_corta - 0.84581715 , arma_corta - 0.73763627 , arma_corta - 0.73597294 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.83868635 , posicion_arma_corta - 0.82800925 , arma_corta - 0.82701933 , arma_corta - 0.8149783 , arma_corta - 0.7372678 , arma_corta - 0.73306423 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.82150304 , posicion_arma_corta - 0.8114369 , arma_corta - 0.8050723 , posicion_arma_corta - 0.79979646 , arma_corta - 0.7403626 , arma_corta - 0.7392434 , arma_corta - 0.72048295 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.82523835 , posicion_arma_corta - 0.8061599 , arma_corta - 0.80598974 , posicion_arma_corta - 0.78648305 , arma_corta - 0.7680162 , arma_corta - 0.73096764 , arma_corta - 0.7251456 , arma_corta - 0.72206974 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.82141364 , arma_corta - 0.8018339 , posicion_arma_corta - 0.776943 , arma_corta - 0.774026 , posicion_arma_corta - 0.74165833 , arma_corta - 0.7402597 , arma_corta - 0.714149 , arma_corta - 0.7059427 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8523624 , arma_corta - 0.8201416 , posicion_arma_corta - 0.82011545 , arma_corta - 0.8137219 , posicion_arma_corta - 0.77607703 , arma_corta - 0.75748885 , arma_corta - 0.7491791 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8569018 , arma_corta - 0.85092485 , arma_corta - 0.8083298 , posicion_arma_corta - 0.7934786 , arma_corta - 0.78381586 , arma_corta - 0.7569183 , posicion_arma_corta - 0.7394651 , arma_corta - 0.726747 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8444997 , arma_corta - 0.8297165 , arma_corta - 0.7806035 , arma_corta - 0.7716816 , posicion_arma_corta - 0.76393884 , arma_corta - 0.75284743 , arma_corta - 0.72530055 , arma_corta - 0.71087325 , posicion_arma_corta - 0.708632 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.8552117 , posicion_arma_corta - 0.815549 , arma_corta - 0.8153076 , arma_corta - 0.80301374 , arma_corta - 0.7682069 , arma_corta - 0.7280087 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.8743402 , posicion_arma_corta - 0.84399277 , arma_corta - 0.8020815 , arma_corta - 0.78662217 , arma_corta - 0.7680008 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.88076955 , posicion_arma_corta - 0.84634763 , arma_corta - 0.80933064 , arma_corta - 0.7990159 , arma_corta - 0.7671914 , arma_corta - 0.74055153 ,  | 0.52,0.04,0.55
+ ------------------------------  
+arma_corta - 0.8482837 , posicion_arma_corta - 0.84363645 , arma_corta - 0.8265477 , arma_corta - 0.81934726 , posicion_arma_corta - 0.80827624 , arma_corta - 0.7824854 , arma_corta - 0.7385077 , arma_corta - 0.7190474 , arma_corta - 0.7050532 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8495414 , posicion_arma_corta - 0.8400477 , arma_corta - 0.82261986 , arma_corta - 0.8091739 , posicion_arma_corta - 0.7969716 , arma_corta - 0.76896864 , arma_corta - 0.7223686 , arma_corta - 0.7149421 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8572266 , arma_corta - 0.8299157 , posicion_arma_corta - 0.816365 , arma_corta - 0.79019207 , arma_corta - 0.7766625 , arma_corta - 0.77622896 , posicion_arma_corta - 0.76544553 , arma_corta - 0.72929156 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.860208 , arma_corta - 0.8252091 , arma_corta - 0.7986495 , arma_corta - 0.78311366 , arma_corta - 0.76769954 , arma_corta - 0.75983584 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8373204 , posicion_arma_corta - 0.8360892 , posicion_arma_corta - 0.82634956 , arma_corta - 0.8213134 , arma_corta - 0.81654835 , arma_corta - 0.8096137 , arma_corta - 0.76627314 , arma_corta - 0.75922287 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.8298797 , posicion_arma_corta - 0.8269805 , posicion_arma_corta - 0.8261548 , arma_corta - 0.73197955 , arma_corta - 0.71238273 , arma_corta - 0.7087077 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.85810626 , arma_corta - 0.85510767 , arma_corta - 0.85140485 , arma_corta - 0.8396912 , posicion_arma_corta - 0.8328583 , posicion_arma_corta - 0.83020777 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.8753365 , posicion_arma_corta - 0.8704348 , arma_corta - 0.82704675 , arma_corta - 0.82530785 , arma_corta - 0.79886633 , arma_corta - 0.756642 , arma_corta - 0.72751737 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_larga - 0.7830892 , posicion_arma_larga - 0.74508834 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_larga - 0.7918047 , posicion_arma_larga - 0.7897534 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.80489445 , posicion_arma_corta - 0.8041173 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_larga - 0.7059598 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.9353106 , posicion_arma_corta - 0.9126331 , arma_corta - 0.8746505 , arma_corta - 0.8670361 , arma_corta - 0.8647373 , arma_corta - 0.826349 ,  | 0.51,0.05,0.56
+ ------------------------------  
+posicion_arma_corta - 0.708128 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.73367006 ,  | 0.51,0.04,0.54
+ ------------------------------  
+posicion_arma_larga - 0.8382413 , arma_larga - 0.70299304 ,  | 0.51,0.04,0.55
+ ------------------------------  
+posicion_arma_corta - 0.9017699 , arma_corta - 0.8583393 , posicion_arma_corta - 0.829667 , arma_corta - 0.8293749 , arma_corta - 0.81995153 , arma_corta - 0.8096352 , arma_corta - 0.77234226 , arma_corta - 0.7324625 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.83317375 , posicion_arma_corta - 0.7925668 , arma_corta - 0.78589636 , arma_corta - 0.77877676 , arma_corta - 0.76511073 , arma_corta - 0.75765634 , arma_corta - 0.7323114 , arma_corta - 0.72128356 ,  | 0.52,0.04,0.56
+ ------------------------------  
+posicion_arma_corta - 0.86573404 , posicion_arma_corta - 0.8126757 , arma_corta - 0.7643389 , arma_corta - 0.745978 , arma_corta - 0.7365277 , arma_corta - 0.73626894 , arma_corta - 0.71646696 ,  | 0.51,0.04,0.55
+ ------------------------------  
+arma_corta - 0.84544533 , arma_corta - 0.8361271 , posicion_arma_corta - 0.8324226 , arma_corta - 0.8323914 , arma_corta - 0.8108394 , arma_corta - 0.80142355 , posicion_arma_corta - 0.78880775 ,  | 0.52,0.04,0.56
+ ------------------------------  
+arma_corta - 0.78739935 , arma_corta - 0.78559905 , arma_corta - 0.74089676 , arma_corta - 0.73793334 ,  | 0.51,0.04,0.55
+ 
+ 
+Tiempo Total de Ejecucion: 77.298668384552 
+Total de Frames Seleccionados: 118 
+Total de Frames: 586

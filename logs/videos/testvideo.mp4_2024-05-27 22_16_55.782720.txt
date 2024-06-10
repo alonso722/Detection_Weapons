@@ -1,0 +1,13 @@
+Iniciando Proceso
+
+arma_punzocortante - 0.63990796 , arma_punzocortante - 0.63944733 , arma_punzocortante - 0.6371795 , arma_punzocortante - 0.6230393 ,  | 0.51,0.02,0.53
+arma_punzocortante - 0.52137536 ,  | 0.51,0.01,0.52
+arma_punzocortante - 0.5437042 ,  | 0.51,0.01,0.53
+arma_punzocortante - 0.5227487 ,  | 0.51,0.01,0.52
+arma_corta - 0.6312709 ,  | 0.51,0.01,0.52
+arma_corta - 0.7472969 ,  | 0.51,0.02,0.52
+ 
+ 
+Tiempo Total de Ejecucion: 64.30553102493286 
+Total de Frames Seleccionados: 96 
+Total de Frames: 480
